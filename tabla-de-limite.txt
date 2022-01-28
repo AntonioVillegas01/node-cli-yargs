@@ -1,0 +1,11 @@
+0 x limite = NaN 
+1 x limite = NaN 
+2 x limite = NaN 
+3 x limite = NaN 
+4 x limite = NaN 
+5 x limite = NaN 
+6 x limite = NaN 
+7 x limite = NaN 
+8 x limite = NaN 
+9 x limite = NaN 
+10 x limite = NaN 
